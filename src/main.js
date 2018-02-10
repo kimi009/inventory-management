@@ -10,7 +10,7 @@ import '@/components'
 import low from 'lowdb'
 import LocalStorage from 'lowdb/adapters/LocalStorage'
 
-// Element
+// Element 组件
 Vue.use(ElementUI)
 
 // 本地数据库
